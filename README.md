@@ -19,7 +19,7 @@
 <a href="mailto:surendra.pandey@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://www.linkedin.com/in/surendra-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://x.com/SurendraCode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" /></a>
-<a href="https://github.com/surendra-pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="https://github.com/Digitallineinfosys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
 
 </div>
 
@@ -262,8 +262,8 @@ React 19 • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Recharts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surendra-pandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&text_color=c9cacc&title_color=6e40c9" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surendra-pandey&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Digitallineinfosys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&text_color=c9cacc&title_color=6e40c9" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Digitallineinfosys&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9" width="49%" alt="GitHub Streak" />
 
 </div>
 
@@ -271,7 +271,7 @@ React 19 • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Recharts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendra-pandey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&text_color=c9cacc&title_color=6e40c9" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digitallineinfosys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&text_color=c9cacc&title_color=6e40c9" width="49%" alt="Top Languages" />
 
 </div>
 
@@ -279,7 +279,7 @@ React 19 • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Recharts
 
 <div align="center">
 
-[![Surendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surendra-pandey&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9cacc)](https://github.com/surendra-pandey)
+[![Surendra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Digitallineinfosys&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9cacc)](https://github.com/Digitallineinfosys)
 
 </div>
 
@@ -323,7 +323,7 @@ React 19 • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Recharts
 
 <a href="mailto:surendra.pandey@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://www.linkedin.com/in/surendra-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" /></a>
-<a href="https://github.com/surendra-pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="https://github.com/Digitallineinfosys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://x.com/SurendraCode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" /></a>
 
 </div>
@@ -332,9 +332,9 @@ React 19 • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Recharts
 
 <div align="center">
 
-📧 **surendra.pandey@email.com** | 📞 **+91 98765 43210**
+📧 **surendra.pandey@email.com** | 📞 **+91 73836 24004**
 
-💼 **[LinkedIn](https://www.linkedin.com/in/surendra-pandey)** | 🐦 **[X](https://x.com/SurendraCode)** | 🔗 **[GitHub](https://github.com/surendra-pandey)**
+💼 **[LinkedIn](https://www.linkedin.com/in/surendra-pandey)** | 🐦 **[X](https://x.com/SurendraCode)** | 🔗 **[GitHub](https://github.com/Digitallineinfosys)**
 
 </div>
 
