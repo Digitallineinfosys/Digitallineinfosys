@@ -62,20 +62,20 @@
 </div>
 
 ### 🏢 Software Engineer — Infosys Technologies
-**August 2015 - October 2018** | *3+ Years*
+**August 2015 - October 2018**
 - Developed and maintained enterprise-level applications serving 100K+ users
 - Collaborated with cross-functional teams on full-stack solutions
 - Contributed to multiple client projects across diverse domains
 
 ### 💻 Fullstack Developer — Liza Tech Pvt Ltd
-**November 2018 - August 2023** | *4.8 Years*
+**November 2018 - August 2023** 
 - Built scalable web and mobile applications using modern tech stack
 - Designed and implemented RESTful APIs and database architectures
 - Led frontend development with React and backend services with Node.js
 - Mentored 5+ junior developers and conducted code reviews
 
-### 🚀 Freelance Developer
-**September 2023 - Present** | *1+ Years*
+### 🚀 Freelance Developer - Upwork
+**September 2023 - Present**
 - Developing custom solutions for diverse clients globally
 - Building SaaS platforms and mobile applications
 - Providing technical consulting and architecture design
@@ -87,7 +87,7 @@
 ### Bachelor of Computer Science
 **2009 - 2012**
 
-### MBA
+### Master Of Business Administration
 **2012 - 2014**
 
 ---
@@ -165,31 +165,6 @@
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Projects Animation" />
 
 </div>
-
-### 📈 StoxPlay — Stock Market Fantasy Trading Platform
-
-<div align="center">
-
-**Admin Dashboard for Fantasy Stock Trading with Multi-Role Hierarchy**
-
-</div>
-
-**Technology Stack:**
-```
-React 19 • TypeScript • Redux Toolkit • MUI v7 • Recharts • Formik • React Router v7 • Axios • jsPDF
-```
-
-| Feature | Description |
-|---------|-------------|
-| 🔐 **Role-Based Dashboards** | Analytics with line graphs, bar charts, and KPI cards per role (Super Admin → Admin → Broker → Client) |
-| 🏆 **Contest Management** | Create/edit trading contests with custom prize slabs and participant tracking |
-| 🪙 **Coin Management** | Generate, distribute, request, redeem, and revert virtual coins across the hierarchy |
-| 👥 **Broker & Client Management** | Onboard brokers, manage their clients, activities, and commission structures |
-| 📊 **Stock Management** | Manage available stocks for contests with real-time data |
-| 📄 **PDF Export** | Transaction history and reports exported via jsPDF with role-scoped access |
-| 🔒 **JWT Authentication** | Protected routes per role with secure session management |
-
----
 
 ### ⚡ RightSite — L2 EV Charging ROI Estimator SaaS
 
