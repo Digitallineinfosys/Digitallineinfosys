@@ -16,9 +16,8 @@
 
 <div align="center">
 
-<a href="mailto:surendra.pandey@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="mailto:surendra.digitallineinfosys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://www.linkedin.com/in/surendra-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" /></a>
-<a href="https://x.com/SurendraCode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://github.com/Digitallineinfosys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
 
 </div>
@@ -74,7 +73,7 @@
 - Led frontend development with React and backend services with Node.js
 - Mentored 5+ junior developers and conducted code reviews
 
-### 🚀 Freelance Developer - Upwork
+### 🚀 Freelance Developer — Upwork
 **September 2023 - Present**
 - Developing custom solutions for diverse clients globally
 - Building SaaS platforms and mobile applications
@@ -296,10 +295,9 @@ React 19 • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Recharts
 
 <div align="center">
 
-<a href="mailto:surendra.pandey@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
+<a href="mailto:surendra.digitallineinfosys@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://www.linkedin.com/in/surendra-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" /></a>
 <a href="https://github.com/Digitallineinfosys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
-<a href="https://x.com/SurendraCode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" /></a>
 
 </div>
 
@@ -307,7 +305,7 @@ React 19 • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Recharts
 
 <div align="center">
 
-📧 **surendra.pandey@email.com** | 📞 **+91 73836 24004**
+📧 **surendra.digitallineinfosys@gmail.com** | 📞 **+91 73836 24004**
 
 💼 **[LinkedIn](https://www.linkedin.com/in/surendra-pandey)** | 🐦 **[X](https://x.com/SurendraCode)** | 🔗 **[GitHub](https://github.com/Digitallineinfosys)**
 
